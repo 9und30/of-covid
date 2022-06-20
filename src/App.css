@@ -60,7 +60,7 @@ html, body, #root, .App {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-width: 166px;
+  min-width: 230px;
   width: 33%;
   padding: 1.5rem;
   background-color: #2b2434;
